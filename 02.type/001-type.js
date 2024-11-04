@@ -1,0 +1,1 @@
+var myCustomString = "custom";
